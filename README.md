@@ -6,4 +6,5 @@ Links
 >> http://aqibsaeed.github.io/2017-08-11-genetic-algorithm-for-optimizing-rnn/  
 >> https://blog.sicara.com/getting-started-genetic-algorithms-python-tutorial-81ffa1dd72f9  
 >> https://github.com/MorvanZhou/Evolutionary-Algorithm  
+>> https://medium.com/the-andela-way/on-genetic-algorithms-and-their-application-in-solving-regression-problems-4e37ac1115d5  
 
