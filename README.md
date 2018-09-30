@@ -7,5 +7,6 @@ Links
 >> https://blog.sicara.com/getting-started-genetic-algorithms-python-tutorial-81ffa1dd72f9  
 >> https://github.com/MorvanZhou/Evolutionary-Algorithm  
 >> https://medium.com/the-andela-way/on-genetic-algorithms-and-their-application-in-solving-regression-problems-4e37ac1115d5  
->> https://www.kdnuggets.com/2018/03/introduction-optimization-with-genetic-algorithm.html  
+>> https://www.linkedin.com/pulse/introduction-optimization-genetic-algorithm-ahmed-gad/  
+
 
